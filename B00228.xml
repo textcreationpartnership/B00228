@@ -1,0 +1,407 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dives and Lazarus: or rather, Divellish dives: deliuered in a sermon at Pauls Crosse, by R.I. preacher of the word. ; Very necessary for these times, and purposely published for the great comfort of those that taste the bitternesse of affliction..</title>
+            <author>Johnson, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00228</idno>
+            <idno type="STC">STC 14694.3</idno>
+            <idno type="STC">ESTC S93378</idno>
+            <idno type="EEBO-CITATION">56572860</idno>
+            <idno type="OCLC">ocm 56572860</idno>
+            <idno type="VID">180962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180962)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2147:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dives and Lazarus: or rather, Divellish dives: deliuered in a sermon at Pauls Crosse, by R.I. preacher of the word. ; Very necessary for these times, and purposely published for the great comfort of those that taste the bitternesse of affliction..</title>
+                  <author>Johnson, Robert.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fourth Edition..</edition>
+               </editionStmt>
+               <extent>[44] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.I. for Robert Bird, and are to be sold at his shop, in Cheap-side at the signe of the Bible.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1623..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Robert Johnson by STC (2nd ed.).</note>
+                  <note>Signatures: A-C⁸(first and last leaves blank).</note>
+                  <note>Reproduction of original in: National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke XVI, 19 --  Sermons --  Early works to 1800.</term>
+               <term>Rich man and Lazarus (Parable) --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180962:1"/>
+            <pb facs="tcp:180962:1"/>
+            <p>DIVES AND LAZARVS: <hi>Or rather,</hi> DIVELLISH DIVES:</p>
+            <p>Deliuered in a Sermon at Pauls Croſſe, by <hi>R. I.</hi> Preacher of the word.</p>
+            <p>Very neceſſary for theſe times, and purpoſely <hi>publiſhed for the great comfort of thoſe that</hi> taſte the bitterneſſe of affliction.</p>
+            <p>MATTH. 5. 3. Bleſſed are the poore in ſpirit, for theirs is the kingdome of heauen.</p>
+            <p>The fourth Edition.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. I.</hi> for <hi>Robert Bird,</hi> and are to be ſold at his ſhop in Cheap-ſide at the ſigne of the Bible. 1623.</p>
+         </div>
+         <div type="sermon">
+            <div type="introduction">
+               <pb facs="tcp:180962:2"/>
+               <pb facs="tcp:180962:2"/>
+               <head>DIVES and LAZARVS: or rather, Diuelliſh Diues.</head>
+               <q>
+                  <bibl>
+                     <hi>
+                        <hi>Luke</hi> 16. <hi>verſe</hi> 19.</hi>
+                  </bibl>
+                  <p>
+                     <hi>There was a certaine rich man cloathed in purple and fine ſilke: and fared well and delicatly euery day.</hi>
+                  </p>
+                  <p>
+                     <hi>20 Alſo there was a certaine begger named Lazarus, which lay at his gates full of ſores.</hi>
+                  </p>
+                  <p>
+                     <hi>21 And deſired to be refreſhed with the crums that fell from this rich mans table; yea, and the dogs came and licked his ſores.</hi>
+                  </p>
+                  <p>
+                     <hi>22 And it was ſo, that the begger died, and was carried by the Angels into Abrahams boſome: the rich man alſo died and was buried.</hi>
+                  </p>
+                  <p>
+                     <hi>23 And being in bell torments, he lift vp his eyes, and ſaw Abraham a farre off, and Lazarus in his boſome, &amp;c.</hi>
+                  </p>
+               </q>
+               <p>
+                  <seg rend="decorInit">T</seg>Heſe wordes (right Honourable, right Worſhipfull, and Beloued) haue relation vnto the precedent verſes in this Chapter, wherein our Sauiour Chriſt, from the 13 verſe to the ſeuentéenth, reproueth the couetouſ<g ref="char:EOLhyphen"/>nes
+<pb facs="tcp:180962:3"/> of the Phariſes, by ſhewing vnto them, that no man can ſerue two Maſters, that is, God and Riches. All theſe things heard the Phari<g ref="char:EOLhyphen"/>ſes, which were couetous, and they mocked him: whereupon he aptly and fitly taketh occaſion to relate this Parable of the Rich man and <hi>Lazarus.</hi>
+               </p>
+               <p>Hearken, and I ſhall ſpeake of a great rich man, that flouriſhed here on earth, in all pompe and aboundance, that ſhined in Courtly Purple Robes, that was cloathed in <hi>Byſtus</hi> and fine Silke, that fared deliciouſly, that was lodged ſoftly, that liued pleaſantly. But vnderſtand what became of this Rich man: his yeares being expired, and his dayes numbred, and his time determined, he was inuited to the fatall banquet of blacks vgly Death, that maketh all men ſubiect to the rigour of his Law: his body was honourably buried, in reſpect of his much wealth. But what became of his ſoule? that was carried from his bodie to dwell with the diuels; from his Purple robes to burning flames; from his ſoft Silke and white <hi>Byſſus,</hi> to cruell paines in black <hi>Abyſſus;</hi> from his Pallace here on earth, to the Pallace of <hi>Pluto</hi> in hell; from Paradiſe, to a dungeon; from pleaſures to paines, from ioyes to tor<g ref="char:EOLhyphen"/>ments, and that by helliſh meanes and damned ſpirits, into the infernall Lake of bottomleſſe
+<pb facs="tcp:180962:3"/> 
+                  <hi>Barathrum,</hi> where is wo, wo, and alas, <hi>where is weeping and wailing, and gnaſhing of teeth, Matthew, Chap. 25. The wicked ſhall be turned into hell, and all the people that forget GOD, Pſalme 9.</hi>
+               </p>
+               <p>Hearken alſo of a certaine poore Begger, cloathed in tagges, with miſerics pined, pai<g ref="char:EOLhyphen"/>ned with griefes grieued with ſores, ſorely tor<g ref="char:EOLhyphen"/>mented, vnmercifully contemned, lying at this Rich mans gate, deſiring to be refreſhed but with the crums that fell from this Rich mans table: but dogges had more pittie then this Rich man on this diſtreſſed creature; for they came to viſit him, they came to comfort him, they came and liked his ſores.</p>
+               <p>Well, his time being alſo determined, hée went the way of all fleſh, and death was the finiſher of all his miſeries and griefes. <hi>Vita aſ<g ref="char:EOLhyphen"/>ſumpſit mortem, vt mors vitam acciperet,</hi> He died once, to liue euer. And what became of his ſoule? It was carried from his bodie to his Maker; from a houſe of clay, to a houſe not made with hands; from a wilderneſſe to a Pa<g ref="char:EOLhyphen"/>radiſe; from an earthly priſon, to a heauenly Pallace; from the Rich mans gate, to the Citie of the great GOD; from paines to pleaſures, from miſeries to ioyes; from <hi>A<g ref="char:EOLhyphen"/>dams</hi> corruption, to <hi>Abrahams</hi> boſome. It was carried by Angels into the Quires of An<g ref="char:EOLhyphen"/>gels,
+<pb facs="tcp:180962:4"/> to haue his being and mouing in the euer-mouing heauens with God himſelfe, <hi>Vbi vita, &amp; victus, &amp; copia, &amp; gloria, &amp; ſalus, &amp; pax, &amp; æternitas, &amp; bona omnia.</hi> Where is life, and food, and abundance, and glory, and health, and peace, and eternitie, and all good things, all a<g ref="char:EOLhyphen"/>boue all that can be either wiſhes or deſired, And this is the ſubiect that I am to ſpeake of in your preſence. <hi>Sed quia primum,</hi> what ſhall I ſay firſt; let it pleaſe you to conſider the ar<g ref="char:EOLhyphen"/>gument of this Scripture, which is two-fold.</p>
+               <p>Firſt, our Sauiour Chriſt hereby aduiſeth all rich men to be mercifull to their poore bre<g ref="char:EOLhyphen"/>thren in this life, leſt they find no mercie in the life to come.</p>
+               <p>Secondly, he doth comfort all poore men, that although they are afflicted in this life with great miſeries and calamities, yet they ſhall be comforted in the life to come, and reſt in <hi>Abrahams</hi> boſome.</p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="commentary">
+            <head>The parts of this Scripture, are foure.</head>
+            <p n="1">1 The life of the Rich man, in theſe words, <hi>There was a certaine Rich man cloathed in pur<g ref="char:EOLhyphen"/>ple and fine ſilke, and fared deliciouſly euerie day.</hi>
+            </p>
+            <p n="2">2 The life of the Begger, in theſe words,
+<pb facs="tcp:180962:4"/> 
+               <hi>Alſo there was a certain begger named Lazarus, which was laid at his gate full of ſores, &amp;c.</hi>
+            </p>
+            <p n="3">3 The death of the Begger, in theſe words, <hi>And it was ſo, the begger died, and was carried, &amp;c.</hi>
+            </p>
+            <p n="4">4 The death of the Rich man, <hi>The Rich man alſo dyed, and was buried.</hi>
+            </p>
+            <p>In the firſt part, I note theſe thrée circum<g ref="char:EOLhyphen"/>ſtances. 1 What this Rich man was, and whether there was any ſuch man, or no.</p>
+            <p>2 What his apparell was, not meane or ordinarie, but Purple and fine ſilke.</p>
+            <p>3 That his diet was not baſe, nor homely, but delicious; and not once, or twice, but euery day.</p>
+            <p>In the life of the Begger, I find foure cir<g ref="char:EOLhyphen"/>cumſtances.</p>
+            <p n="1">1 Where he liued; in no Pallace or houſe, but at the Rich mans gate.</p>
+            <p n="2">2 How he liued; neither in health nor wealth, but miſerably full of ſores.</p>
+            <p n="3">3 That he deſired in his life, not Lordſhips, or houſes, or land, or gold, or ſiluer, but crums to ſaue his life.</p>
+            <p n="4">4 Who ſhewed the Begger kindneſſe in his life; not the Rich man, but the Rich mans dogs. <hi>The dogs came alſo and licked his ſores.</hi>
+            </p>
+            <p>In the death of the Begger, I note thrée cir<g ref="char:EOLhyphen"/>cumſtances.</p>
+            <pb facs="tcp:180962:5"/>
+            <p>1 What became of his body being dead, no mention hereof is made in holy Scriptures? it may be buried with little or no reſpect, be<g ref="char:EOLhyphen"/>cauſe he was a poore man; or elſe caſt into ſome ditch, by reaſon of his ſores.</p>
+            <p>2 What became of his ſoule? It went not to Purgatorie, (for there is no ſuch place) but it was carried into <hi>Abrahams</hi> boſome.</p>
+            <p>3 By whom? by Angels: <hi>It was carried by Angels into Abrahams boſome.</hi>
+            </p>
+            <p>In the death of the Rich man, I note theſe two circumſtances.</p>
+            <p>1 What became of his body being dead? It was honourably buried, becauſe of his great ſubſtance.</p>
+            <p>2 What became of his ſoule? It went to hell: <hi>He being in hell torments, hit vp his eyes, and ſaw Abraham a farre off, and Lazarus in his boſome.</hi>
+            </p>
+            <div type="text">
+               <head>Of theſe in order.</head>
+               <p>And firſt, in the life of the Rich man, wée noted what this Rich man was; whether there was indéed any ſuch man or no: wherefore here may a queſtion ariſe, Whether this be a Parable or Hiſtorie? the Writers hereon doe not agrée.</p>
+               <p>
+                  <hi>Marloret</hi> ſaith, <hi>Quanquam quibuſdam hæc</hi>
+                  <pb facs="tcp:180962:5"/> 
+                  <hi>ſimplex Parabola eſſe videtur, tamen quia hic La<g ref="char:EOLhyphen"/>zari nomen exprimitur, rem geſtam narrare proba<g ref="char:EOLhyphen"/>bilius eſt:</hi> Some are of that mind, that this is a Parable; yet becauſe (ſaid he) Chriſt expreſ<g ref="char:EOLhyphen"/>ſeth here the name of <hi>Lazarus,</hi> it argueth that hee ſpake of a thing that was ſo done in<g ref="char:EOLhyphen"/>deed.</p>
+               <p>Likewiſe ſaith <hi>Franciſcus Lambertus, Credon<g ref="char:EOLhyphen"/>dum magis eſſe Hiſtoria<g ref="char:cmbAbbrStroke">̄</g> &amp; exemplum verum quàm Parabolum:</hi> It muſt be beléeued, that this is ra<g ref="char:EOLhyphen"/>ther a Hiſtorie, and a true example, then a Pa<g ref="char:EOLhyphen"/>rable.</p>
+               <p>But <hi>Theophilactus</hi> is of contrary opinion, <hi>Parabola veræſt, &amp; hac non Hiſtoria,</hi> This is a Parable, and no Hiſtorie.</p>
+               <p>
+                  <hi>Eraſmus</hi> alſo ſaith, that it is but a Parable, whereby all rich men may learne to be mer<g ref="char:EOLhyphen"/>cifull to their poore brethren, that they may ſpeake for them in the day of vengeance and wrath.</p>
+               <p>
+                  <hi>Srella</hi> alſo ſaith, <hi>Erat quidam homo, non quidam vir;</hi> he ſpeakes of the <hi>Species</hi> not of the indiui<g ref="char:EOLhyphen"/>dum, as one particular man; therefore it is a Parable.</p>
+               <p>Many Writers there are alſo, that rather aiming at the arguments and obſeruations herein, haue not ſet downe their iudgements, whether it be a Parable or Hiſtorie: therefore it might ſéeme wiſcdome in mee to ſuſpend my
+<pb facs="tcp:180962:6"/> my iudgement alſo herein, eſpecially ſince <hi>Mar<g ref="char:EOLhyphen"/>loret</hi> ſaith, <hi>Parum refert vtrum ſit Parabola an Hiſtoria modo ſummam doctrinam teneant lectores:</hi> It greatly ſkilleth not whether it be a Parable or Hiſtorie, ſo that we duly conſider the doctrine herein.</p>
+               <p>But becauſe it is requiſite that I alſo ſhew mine opinion, I will returne the verdict accor<g ref="char:EOLhyphen"/>ding to my euidence; and therefore in naked truth I find and hold that it is a Parable: and my reaſons are theſe two; Firſt, becauſe our Sauiour in the beginning of this Chapter doth relate a Parable of a Rich man that had a Steward, &amp;c. Therefore he continueth in this Chapter to open his mouth in Parables, accor<g ref="char:EOLhyphen"/>ding to the Prophet, <hi>I will open my mouth in parables, and ſhew darke ſentences of old time.</hi> Secondly, becauſe the Rich man cryed out of hell vnto <hi>Abraham,</hi> and <hi>Abraham</hi> anſwered the Rich man; which muſt néeds be vnderſtood Parabolically: for the damned in hell cannot ſée nor heare the Saints that are in heauen, nei<g ref="char:EOLhyphen"/>ther by reaſon of the diſtance of place, and alſo becauſe of the maine ſpheres and orbes that are twixt heauen and hell; neither ſhall they ſée or know what is done there. And againe, <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> throate is yet drie, and cleaueth to the roofe of his mouth; therefore he cannot ſpeake ſo loud as to be heard out of heauen into hell.
+<pb facs="tcp:180962:6"/> Therefore it is but a Parable.</p>
+               <p>But here we ſée, firſt, that the wicked are ſo little reſpected with God, that hée will not vauchſafe ſo much as to name them. I will not (ſaith <hi>Dauid,</hi> ſpeaking in the perſon of God) make mention of their names within my lips. And againe, ſuch as be fooliſh ſhall not tarrie in my ſight; for thou hateſt all them which worke vanitie. And haue not our ſinnes alſo deſerued that we ſhould not be remembred alſo of God, &amp; that he ſhould vtterly forget vs, that is, take away his loue and fanour from vs? Yes verily; for what pride, enuie, and impietie is there practiſed here among vs? pride againſt God, enuie againſt men, and impietie againſt our owne ſoules and conſciences; hauing tou<g ref="char:EOLhyphen"/>ched euen the very tropicke of all wickedneſſe: ſo that our ſinnes force God to forſake vs, and not to remember vs. <hi>Plutarch</hi> in the life of <hi>Theſeus,</hi> reporteth of one <hi>Phea</hi> a woman that robbed all the paſſengers that paſſed by her pal<g ref="char:EOLhyphen"/>lace, called <hi>Crommyonia,</hi> where ſhe dwelled; which Hiſtorie may not vnfitly be applied to our ſinnes; for they like <hi>Phea</hi> rob vs of grace, of fauour, of bleſſings, of good name, and of Gods loue too. <hi>Solum peccatum homicida,</hi> It is ſinne onely that cutteth our throates. It was the ſinne of Egypt, that plagued Egypt, and it was the ſinnes of this Citie, that plagued this
+<pb facs="tcp:180962:7"/> Citie: although now the Lord hath ſpared it a good ſeaſon, yet let vs not preſume of his long ſufferance: for if puniſhments argue ſinnes, and ſinnes plagues, haue we not cauſe to feare great miſeries to enſue. I conclude this point there<g ref="char:EOLhyphen"/>fore with the Prophet, <hi>Eſa. 5. Wo be vnto them that draw on wickedneſſe with cords of vanitie, and ſinne, as it were, with a cart-rope. I heard a voice, ſaying, Wo, wo, wo vnto the inhabitants of the earth.</hi> Whereupon one noteth that there is, <hi>Triplex væ, Primum væ propter culpam, ſecun<g ref="char:EOLhyphen"/>dum propter tribulationem mundanam, tertium prop<g ref="char:EOLhyphen"/>ter æternam pœnam:</hi> There are thrée kindes of woes, the firſt woe is for ſinne and offences: the ſecond, for worldly tribulation and miſery: the third, for the euerlaſting pain. All of theſe woes did the Rich man féele: two of them were begun here on earth, and the third was finiſhed being in hell torments.</p>
+               <p>Secondly, let vs conſider what his apparell was, Purple and fine white, as ſoure will haue: but we reade, <hi>kai endidyſketo porphyron kai byſſon,</hi> which word <hi>byſſon,</hi> although ſome take it for fine Flaxe, yet let it here be vnderſtood of ſilke.</p>
+               <p>There was very great difference betwixt the apparell of <hi>Iohn</hi> the Baptiſt and this man, <hi>Iohns</hi> raiment was Camels haire, with a lea<g ref="char:EOLhyphen"/>therne girdle about his loines, which did argue repentance and mortification in him; but this
+<pb facs="tcp:180962:7"/> Rich mans apparel was Purple and fine Silk, whoſe outward apparell did argue the pride of his heart: the outward habit for the moſt part reſemble the inward habit and condition of the mind. Pride, as ſaith one, is grounded in the heart of man; a vice moſt loathſome to God, hatefull to man, and hurtfull to the ſoule.</p>
+               <p>But let vs conſider the thrée circumſtances in the life of this rich man, to wit, what his diet was; <hi>Deliciouſly euery day:</hi> and here wée ſée what the children of this wold delight in, namely in fulneſſe of meate; <hi>Qui neglecto ſupero<g ref="char:EOLhyphen"/>rum culta, Baccho indulgent, venerique miniſtrant:</hi> who neglecting the ſeruice of God, haue gi<g ref="char:EOLhyphen"/>uen themſelues to ſerue <hi>Bacchus</hi> and <hi>Venus.</hi> Hence one noteth, <hi>Gula delectationem, non neceſſi<g ref="char:EOLhyphen"/>tatem quærit:</hi> A gluttonous perſon eateth more for pleaſure then neceſſitie: ſo did this Rich man; ſo did our firſt parents; it was not through néed or neceſſity that they <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eate of the forbid<g ref="char:EOLhyphen"/>den trée, but through wan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onneſſe, pleaſures and idleneſſe. Such is the ſtrength of glutto<g ref="char:EOLhyphen"/>ny, that it is called, <hi>Bla<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dus Dæmon, dulce vene<g ref="char:EOLhyphen"/>num, ſuaue peccatum, quamqui habet, ſeipſum non habet; quam qui habet peccatum non habet, ſed ipſe totus eſt peccatum:</hi> Gluttonie is a flattering Di<g ref="char:EOLhyphen"/>uell, and pleaſant ſinne, and a ſwéete poyſon; which who ſo vſeth, hath not the vſe of him<g ref="char:EOLhyphen"/>ſelfe; which who ſo hath, hath no ſinne, for he
+<pb facs="tcp:180962:8"/> is all ſinne it ſelfe. Beſides, it hath an eſpeciall effect, for it doth, as <hi>Gregorie</hi> ſaith, generate luſt.</p>
+               <p>Therefore it is well noted, that it is, <hi>Amiſſo temporis, naufragium caſtitatis, ruina corporis:</hi> The loſſe of time, the ſhipwracke of honeſtie, and the ruine of the bodie. To be ſhort, it was gluttonie that cauſed our firſt Parents to tranſgreſſe: it was gluttonie that cauſed <hi>Lot</hi> to commit in<g ref="char:EOLhyphen"/>ceſt: it was gluttonie that made <hi>Eſau</hi> to ſell his birth-right: it was gluttonie and drunkenneſſe that cauſed <hi>Nabals</hi> death: it was gluttonie that loſt <hi>Balthaſars</hi> kingdome.</p>
+               <p>Be not then deſirous of daintie meates, ſaith <hi>Salomon:</hi> for he that loueth banqueting ſhall be poore; and he that delighteth in wine ſhall not be rich.</p>
+               <p>Alſo, hence I cannot but commend the tem<g ref="char:EOLhyphen"/>pera<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e dyet of our well fed Monks: <hi>O Mona<g ref="char:EOLhyphen"/>chi, veſtri ſtomachi ſunt amphora Barchi.</hi> Monks bellies are <hi>Bacchuſes</hi> barrels: like vnto their countreyman <hi>Alpities</hi> a Roman, famous for his gluttonie. <hi>The righteous eate, and are ſatisfied; but the belly of the vngodly hath neuer enough. Prou. 13.</hi> There are therefore two kinds of ea<g ref="char:EOLhyphen"/>ting; Moderate, as that of <hi>Iohn</hi> the Baptiſt, and that of <hi>Elias, Dauid,</hi> and <hi>Daniel:</hi> Immode<g ref="char:EOLhyphen"/>rate, as this of the Rich man which fared deli<g ref="char:EOLhyphen"/>cately.</p>
+               <pb facs="tcp:180962:8"/>
+               <p>And ſo let vs a while leaue the Rich man, and conſider the ſecond, that which is the life of the Begger.</p>
+               <p>
+                  <hi>There was alſo a certaine Begger named La<g ref="char:EOLhyphen"/>zarus, &amp;c.</hi>
+               </p>
+               <p>Poore <hi>Lazarus?</hi> what, lying at a gate, and full of ſores too? Would not this Rich man af<g ref="char:EOLhyphen"/>ford thée ſome out-houſe to lie in, to ſhrowd thée from ſtormes and tempeſts? no. Would not his ſeruants pitty thée? no. Would not his children ſpeake for thée? no. Would not his wife intreate her huſband for thée? no. Haſt thou euer done them any wrong? no. But <hi>La<g ref="char:EOLhyphen"/>zarus,</hi> it may be thou art ſtout; and often times Beggers will be chuſers: thou perhaps woul<g ref="char:EOLhyphen"/>deſt haue ſome great almes, or ſome Coppie<g ref="char:EOLhyphen"/>hold, or ſome Farme of this Rich man? no: or thou wouldeſt haue ſome delicate meat, or many diſhes? no: or thou wouldeſt ſit at the table with his ſonnes or ſeruants; no, no. What is it then that thou doeſt deſire? nothing but crums to re<g ref="char:EOLhyphen"/>freſh my ſoule; nothing but crums to ſaue my life; nothing but crums, crums that fall from the Rich mans table: I know that hée fareth plentifully, and that he may well ſpare them.</p>
+               <p>What ſhall I ſay of the hardnes of this cruell Rich mans heart? Let me ſpeake for <hi>Lazarus</hi> vnto this rich man, yet I ſhal but <hi>a ſinam tondere,</hi>
+                  <pb facs="tcp:180962:9"/> get nothing of this hard fellow: I haue a meſ<g ref="char:EOLhyphen"/>ſage vnto thée, O thou Rich man, from the great God of heauen, and hée doth deſire thée, that thou reſpect the Begger that lyeth at the gate, pained with ſores, pined with griefe, and euen ſtarued through hunger; and I beſeech thée in Gods ſtead, that thou haue pitty on this Begger, as God ſhall haue pitie, mercie and compaſſion on thee; and looke what thou layeſt cut, it ſhall be payed thee againe. But hée au<g ref="char:EOLhyphen"/>ſwered: I warrant you, hee is ſome runna<g ref="char:EOLhyphen"/>gate idle Rogue; and ſo long as he can be main<g ref="char:EOLhyphen"/>tained by ſuch eaſie meanes, he will neuer take any other Trade vpon him. Nay, but good ſir, let it pleaſe you onely to behold this poore crea<g ref="char:EOLhyphen"/>ture; which ſuppoſe it were granted, and hée comming to the gate where this wretched ob<g ref="char:EOLhyphen"/>iect lay, ſéeing him berayed with ſores, betot<g ref="char:EOLhyphen"/>tered in rags, and the dogs licking him, ſtop<g ref="char:EOLhyphen"/>ping his noſe, with a ſqueamiſh face, and diſ<g ref="char:EOLhyphen"/>dainfull looke, began to ſay vnto him: I ſee thou art ſome lewd fellow, that ſuch miſeries happen vnto thée, and ſuch plagues come vpon thee, it is not for thy goodneſſe or righteouſ<g ref="char:EOLhyphen"/>neſſe, that theſe afflictions light on thee. But hee replyed O good Maſter, ſome comfort, good Maſter, ſome reliefe, good Maſter, ſome crums to ſaue my life, I ſhall die elſe and ſtarue at your gate; good Maſter, I beſéech you for Gods
+<pb facs="tcp:180962:9"/> ſake, I beſéech you for Chriſts ſake, take ſome pitty, ſome compaſſion, ſome mercy on me. But he with an angry looke diſdaining <hi>Lazarus,</hi> ſaid, Away, hence you idle Rogue, not a penny, not a morſell, not a crumme of bread; and ſo ſtopping his noſe from the ſent, and his eares from the cry of <hi>Lazarus,</hi> returned into his Pallace. And this poore mans throate being drie with crying, his heart fainting for want of comfort, his tongue cleauing to the roofe of his month, be<g ref="char:EOLhyphen"/>ing worne out with faſtings and miſeries, ſtar<g ref="char:EOLhyphen"/>ued at the Rich mans gate. Now muſt I ſpeak for dead <hi>Lazarus</hi> againſt this Rich man; <hi>Nam ſi<g ref="char:EOLunhyphen"/>bi tacuiſſent, nonne lapides clamabant?</hi> If I ſhould hold my peace, the very ſtones would crie, O thou painted ſepulchre, and ſon of no woman, thou rich Miſer, &amp; more then cruell wretch, <hi>La<g ref="char:EOLhyphen"/>zarus</hi> is dead, he is dead at thy gate, &amp; his bloud ſhall be vpon thée; thou ſhewedſt no mercy vnto him, no mercy ſhal be ſhewed to thée; thou ſtopſt thy eares vnto his cry, thou ſhalt cry and not be heard. It is inhumane wickedneſſe to haue no compaſſion on diſtreſſed <hi>Lazarus;</hi> but moſt of all to let him ſtarue at thy gate for want of food. what did he deſire of thée, but only crums to ſaue his life? Is it a ſmal thing, I pray thée, that thou hauing aboundance of delicate meate, ſhouldeſt ſée him ſtarue for bread; that thou flouriſhing in Purple and Silke, ſhouldeſt ſée <hi>Lazarus</hi> lie in
+<pb facs="tcp:180962:10"/> rags; that thou ſéeing euen thy dogs haue pitie on him, thou wouldeſt haue no pittie vpon him thy ſelfe: what eyes hadſt thou that wouldeſt not ſée his ſores? what eares hadſt thou, that wouldeſt not heare his crie? what hands hadſt thou, that ſhould not be ſtretched out to giue? what heart hadſt thou, that would not melt in thy body? what ſoule hadſt thou, that would not pittie this ſilly ſoule, this wretched body, poore <hi>Lazarus</hi>? If the ſtones could ſpeake, they would crie, Fie vpon thée; if thy dogs could ſpeake, they would condemne thée of vnmerci<g ref="char:EOLhyphen"/>fulneſſe; if dead <hi>Lazarus</hi> were here, his ſores would bléed afreſh before thy face, and crie in thy eares, that thou art guiltie, guiltie of his blood, and that thy ſinne is more then can be pardoned. Why ſhould I not tell thée the por<g ref="char:EOLhyphen"/>tion that is prepared for thée; this ſhall be thy portion to drinke: Let thy dayes be few, and let another take thine office: let thy children be fatherleſſe, and thy wife a widdow: let thy children be vagabonds and beg their bread, let them ſéeke it alſo out of deſolate places: let the extortioner conſume all that thou haſt, and let the ſtranger ſpoile thy labour: let there be no man to pittie them, nor to haue compaſſion on thy fatherleſſe children: let thy memoriall be cleane forgotten, and in the next generation let
+<pb facs="tcp:180962:10"/> thy name be cleane put out: let him be an accur<g ref="char:EOLhyphen"/>ſed example to all the world: let him be curſed in the Citie, and curſed in the field: let him be curſed when hée goeth out, and when hee com<g ref="char:EOLhyphen"/>meth in: let him be curſed when he lies downe, and when he riſeth vp: let all creatures, and the Creator himſelfe forſake him, Angels reiect him, heauens frowne at him, earth open thy mouth, hell receiue him, ſpirits teare him, di<g ref="char:EOLhyphen"/>uels torment him, let no mercy be ſhewed vn<g ref="char:EOLhyphen"/>to him that ſhewed no mercy: thus ſhall the miſeries of <hi>Lazarus</hi> be reuenged by the iuſt plagues that ſhall iuſtly fall vpon the rich mans head.</p>
+               <p>But here let vs firſt obſerue, the little or no whit of mercie that the children of this world ſhew to the godly in this life, how baſely they vſe them, and vnmercifully reſpect them. They gaped on me with their mouthes, as it had bin a roaring lion: they ſtood ſtaring vpon me, ſaying, Fie vpon thée, fie vpon thée, we ſaw it with our eyes. So did this Rich man ſtare vpon poore <hi>Lazarus,</hi> crying, fie vpon thée loathſome forſaken abiect. Therefore here wée ſée, that there was in him, <hi>Triplex peccatum, nefas in Deum, malitia in proximum, ſcelus in ſeipſu<g ref="char:cmbAbbrStroke">̄</g>:</hi> Impietie toward God, crueltie toward <hi>Lazarus,</hi> and vengeance againſt himſelfe: and the little mercy that bloody min<g ref="char:EOLhyphen"/>ded
+<pb facs="tcp:180962:11"/> 
+                  <hi>Herod</hi> ſhewed to the innocents, ſufficiently proues this place: whereupon Saint <hi>Gregorie</hi> thus applieth, <hi>Quare horrendum &amp;c.</hi> Why ſhould that horrible decrée, that cruell edict proceed out from <hi>Herod,</hi> that the young inno<g ref="char:EOLhyphen"/>cents ſhould be ſlaine? Why ſhould none but <hi>Herod,</hi> that Sycophant, that blood-ſucker, be appointed to act this cruell, this wofull, this more then vnnaturall Tragedy? What harms had they done him? What ill thought againſt him was imagined by them? What occaſion of murther was offered by them? What iniu<g ref="char:EOLhyphen"/>rie or wrong was pretended towards him, that the Citie of <hi>Rhama</hi> ſhould for no cauſe be filled with Butchers that ſhould murther the inno<g ref="char:EOLhyphen"/>cents, and deſtroy new-borne babes? <hi>In Rha<g ref="char:EOLhyphen"/>ma there was a voice heard, Lamentation, wee<g ref="char:EOLhyphen"/>ping &amp; great mourning.</hi> Who can with tongue declare the miſeries and calamities in that towne, that there ſhould be ſuch a lamentation, ſuch a weeping conſent of children, of mothers, of fathers, of kindred, miſerably crying out to the mercileſſe murderers to ſaue their liues? Who can deplore the many and ſundry faces, manners, innocent ſmiling lookes of theſe pretty babes on their fatall executioners? that the poore infant, ſo ſoone as it was borne, and cleaued to the breaſt, ſhould receiue a deadly wound tho<g ref="char:EOLhyphen"/>rough his bowels: and the wofull mother offe<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:180962:11"/> the child a dug, was conſtrained to ſéeke her infants bloud in the duſt: yea, and often<g ref="char:EOLhyphen"/>times the cruell ſlaue for haſte, with a ſword careleſly murdered Mother &amp; infants together. Wée cannot without teares rightly conſider theſe things. Neither was this capitall ſentence of <hi>Herod</hi> onely againſt infants that were but one yeare old, but if any had liued to the age of two yeares, that they alſo ſhould be ſlaine.</p>
+               <p>Here is painted out moſt plainly the maner and ſauage dealing of the wicked world to<g ref="char:EOLhyphen"/>wards the children of God, how vnmercifully they do vſe them, like as <hi>Cain</hi> vſed <hi>Ab<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l,</hi> and as <hi>Achab</hi> dealt with <hi>Naboth,</hi> or as the Rich man dealt with <hi>Lazarus.</hi> But here let the vn<g ref="char:EOLhyphen"/>godly mercileſſe learne, that they that ſhew no mercie to poore <hi>Lazarus</hi> in this world, ſhall find but little in that to come. And let <hi>Lazarus</hi> learne alſo, ſince his miſeries are ſo great and ſo ma<g ref="char:EOLhyphen"/>ny in this life, to looke for a better in that life, where there is no ſuch cruell dealings. Let vs then with <hi>Stella</hi> loath this world: for <hi>Impoſſi<g ref="char:EOLhyphen"/>bile eſt in hoc <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>undo eſſe &amp; non timere, &amp; non do<g ref="char:EOLhyphen"/>lore, &amp; non laborare, &amp; non p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riclitare:</hi> We cannot poſſibly liue in this world without feare, dan<g ref="char:EOLhyphen"/>ger, dread, ſorrow, paine, miſeries, and ſuch like, as <hi>Lazarus</hi> felt.</p>
+               <p>Secondly, in the life of <hi>Lazarus</hi> I noted how he liued, to wit, miſerably and full of ſores; and
+<pb facs="tcp:180962:12"/> yet this Rich man would not pittie him. Chriſt could not of his mercy but cure the Leper, when he ſaw him full of ſores and leproſie, and <hi>Eliſha</hi> could not but of humanitie teach <hi>Naaman</hi> the Aſſyrian to waſh himſelfe in Jordan, that hée might be whole: but this Rich man would not helpe the poore Begger, neither by his counſell, purſe, table or crums, but let him alone to pi<g ref="char:EOLhyphen"/>ning miſeries at his gate.</p>
+               <p>Hence we note in the perſon of <hi>Lazarus,</hi> the great miſeries and afflictions that the Church of God doth endure in this world.</p>
+               <p>
+                  <hi>Great are the troubles of the righteous,</hi> ſaith <hi>Dauid,</hi> not ſmall or few, but great and many, <hi>Pſal. 34.</hi> And againe, <hi>He will throughly purge his floore,</hi> not ſlightly or to halues, but through<g ref="char:EOLhyphen"/>ly, <hi>Matth. 3. And he will ſearch Ieruſalem with candle light,</hi> leſt he ſhould ouerſlip any wicked<g ref="char:EOLhyphen"/>nes therein. So that as Saint <hi>Bernard</hi> ſaith, <hi>In ſordibus generamur, in tenebris conſeruemur, in do<g ref="char:EOLhyphen"/>loribus paterimur: We are begotten in vnclean<g ref="char:EOLhyphen"/>nes, we are nouriſhed in darkneſſe and brought into this world with bitterneſie. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riplices enim ſunt dolores, ſcilicet, cordis, mundi, &amp; inferni:</hi> There are thée kinds of ſorrowes, the ſorrow of the heart, the ſorrowes of the world, and the paines of hell. <hi>Primi ſunt ex natura, ſecundi ex neceſſitate, tertij pro æquitate:</hi> We ſorrow in heart by nature, we ſorrow in this world of neceſſitie,
+<pb facs="tcp:180962:12"/> the third ſhall happen to the Rich man in hell of equitie, when he ſhall confeſſe himſelfe to be iuſtly plagued.</p>
+               <p>And further to proue this place, we haue many examples in the Scripture, but that well<g ref="char:EOLhyphen"/>knowne one of <hi>Iob</hi> may not be omitted, whoſe miſeries were more then many, and intollera<g ref="char:EOLhyphen"/>ble; as firſt, he being a iuſt man, and one that feared God, to be thus plagued; for when one meſſenger was relating tragicall newes to him, there came another on the necke of him, like the waues of the Sea, while he was yet ſpea<g ref="char:EOLhyphen"/>king, and there came another, while the other was yet ſpeaking; and while he was yet ſpea<g ref="char:EOLhyphen"/>king, there came another; and yet this good man had not ſo much as an houres reſpit to breathe, or to receiue comfort and conſolation by any meanes; his goods were loſt, his body plagued, his ſeruants ſlaine, his ſonnes were dead, and no creature left aliue to comfort him, but onely a froward wife to grieue and vexe his heart, <hi>Miſeria eſt copia tribulationis, &amp; inopia conſola<g ref="char:EOLhyphen"/>tionis, quan<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> multifarie quis patitur, &amp; è nemine reuelatur:</hi> Miſery is then a ſea of tribulation, and ſcarce a drop of conſolation, when a man is oppreſſed many wayes, and relieued by no meanes.</p>
+               <p>For further proofe hereof, adde hereunto
+<pb facs="tcp:180962:13"/> the miſeries and afflictions of that bleſſed Saint the Virgin <hi>Mary</hi> the mother of Chriſt: for ſo ſoone as her eye-pleaſing Babe was borne, her troubles with his were enlarged: firſt, ſhe was conſtrained through <hi>Herod,</hi> crueltie to flie from Bethelem into the land of Egypt; to the land of Iſrael from thence; from the land of Iſrael to the parts of Galile; from thence to the citty of Nazareth: thus the holy Mother, with her more then holy Sonne, was compelled to flie for feare of their liues, and to ſéeke their diet and lodging where they could find it. <hi>The Foxes haue holes, and the birds of the Aire haue neſts, but the Son of man hath not whereon to reſt his head, Math. 8.</hi> From the houre of his birth, vntill he was twelue yeares old, ſhe neuer ſlept but in feare of her life and her Sonnes too, being both hated by the red Dragon, &amp; perſecuted by <hi>He<g ref="char:EOLhyphen"/>rod</hi> and the world. <hi>He came among his owne, and his owne receiued him not.</hi> But when her Sonne came to thirtie yeares of age, O I can<g ref="char:EOLhyphen"/>not expreſſe nor ſpeake her griefes! for griefe, when as ſhe ſaw him betrayed and, giuen into the hands of wicked men; when as ſhe ſaw him haled and pulled before Councels; when as ſhe ſaw him teſt from pillar to poſt; when as ſhe ſaw him ſent from <hi>Anoas</hi> to <hi>Caiphas,</hi> from <hi>Cai<g ref="char:EOLhyphen"/>phas</hi> to <hi>Pontius Pilat,</hi> to be vniuſtly condemned;
+<pb facs="tcp:180962:13"/> when as ſhe heard the fatall ſentence of iudge<g ref="char:EOLhyphen"/>ment proceed from <hi>Pilat</hi> and the Iewes, <hi>Cruci<g ref="char:EOLhyphen"/>fige;</hi> when as ſhe ſaw her Sonne ſtript of his coate, and beat with rods; when as ſhe ſaw his head crowned with ſharp thornes, that pure red blood trickled downe on his ſacred face; when as ſhe ſaw him led to execution, when as ſhe ſaw him hoiſt vpon the Croſſe to ſuffer death before her face. O how ſhe wept and wroong her hands, when as ſhe ſaw his hands ſpread a<g ref="char:EOLhyphen"/>borad, and nailed to the Croſſe. O how ſhe be<g ref="char:EOLhyphen"/>dewed her pleaſant louely cheekes with bitter briniſh teares, when as ſhe ſaw his ſide pierced with a ſpeare, that blood and water iſſued out, as out of a rocke. O ſhe cried out, O ye that paſſe by, O ye that ſtand by the Croſſe, haue ye no reſpect of my Sonne? When as ſhe ſaw him bow his head, O how ſhe beat her breaſt. When as he gaue vp the Ghoſt, O how her heart mel<g ref="char:EOLhyphen"/>ted within her. Who can with vnworthy words declare the miſeries of this worthy Saint?</p>
+               <p>The Adamant ſtone is diſſolued in blood; and let either the miſeries of <hi>Mary,</hi> or the blood of Ieſus Chriſt mollifie our ſtony hearts, and cauſe our eyes to runne ouer with ſtreames of teares.</p>
+               <p>O that my head were a Well of water, and mine eyes a fountaine of teares, that I
+<pb facs="tcp:180962:14"/> might wéepe for the miſeries that the Saints of God and Martyrs of Jeſus Chriſt haue ſuffe<g ref="char:EOLhyphen"/>red in this life! But what counſell ſhall I giue in miſeries? truly to learne patience, which is defined thus, <hi>Patientia eſt obedire Deo in tolleran<g ref="char:EOLhyphen"/>dis aduerſis, ſed ita tamen vt non Deo iraſcamur, nec aliquid contra mandata faciamus:</hi> Patience is a vertue that teacheth vs to obey God in our miſeries, but ſo that we be not angry with him, nor raſhly charge God, nor do any thing againſt the will of God, but patiently to endure what his pleaſure is to inflict vpon vs. I do conclude this point with the Pſalmographer: <hi>The patient abiding of the Lord ſhall not periſh for euer. Pſal. 61.</hi>
+               </p>
+               <p>Thirdly, in the life of the Begger wée noted what he deſired in his life, crums; deſiring to be refreſhed with the crums that fel from the Rich mans table. Out of which words I do obſerue, that the godly do deſire no great matters in this life; they thirſt not after honor &amp; promotion, but if they haue wherewith to ſerue their preſent neceſſities, therewith to be content. <hi>Habens vi<g ref="char:EOLhyphen"/>ctu<g ref="char:cmbAbbrStroke">̄</g> &amp; veſtnu<g ref="char:cmbAbbrStroke">̄</g>,</hi> ſaith our Sauiour Chriſt, <hi>Hauing food and apparell, be therewith content.</hi> But the rich man, he muſt fare delicately, and ſo fat himſelfe for the ſlaughter.<hi>Guloſus habet cor in ventre, laſciuus in lubidius, cupidus in luero:</hi> The
+<pb facs="tcp:180962:14"/> Gluttons heart is on his belly, the Wantons heart is on his luſt, and the Couetous mans heart is on his cheſt. But here ſince <hi>Lazarus</hi> doth requeſt but crummes, let vs yéeld to his requeſt, and let vs learne to be mercifull. <hi>Mi<g ref="char:EOLhyphen"/>ſericordia eſt dolor de alterius concepta miſeria, &amp; ad ſuccurrendum propenſa:</hi> Mercy is a kind of griefe that commeth by thinking on other mens miſe<g ref="char:EOLhyphen"/>ries, and willing to ſhew comfort; hence the word is deriued: <hi>Miſericordia, quaſi miſerum cor dans:</hi> Mercie, becauſe it procureth ſorrow of heart to thinke on miſeries. Or, <hi>Miſericordia, quaſi mittens ſeorſum rigorem cordis:</hi> Mercy, be<g ref="char:EOLhyphen"/>cauſe it ſtriketh an extreame colde vnto the heart: or, as ſome will haue it, <hi>Miſericordia, quaſi mira ſuauitate rigans corda:</hi> Mercy, becauſe it powreth a wonderfull ſwéetneſſe on the heart of him that conceiueth comfort by ſome mans mercy. O how pleaſant would this mer<g ref="char:EOLhyphen"/>cie haue been! O how ſwéet would crums haue béene vnto the heart and ſoule of <hi>Lazarus,</hi> if hée could haue had them! But there is <hi>Triplex miſe<g ref="char:EOLhyphen"/>ricordia, propria, paterna, fraterna; prima ad ſeip<g ref="char:EOLhyphen"/>ſum, ſecunda patris ad filium, tertia ad proximum:</hi> Mercy is thréefold, there is a proper mercy, a fatherly mercy, and a brotherly mercy: the firſt belongeth vnto our ſelues, the ſecond is from the father vnto the ſonne, and the third is from
+<pb facs="tcp:180962:15"/> each to other: concerning the firſt, <hi>Dauid</hi> ſaith, So long as thou doeſt good vnto thy ſelfe, men will ſpeak well of thee. Of the ſecond, we reade the father ſéeing his ſonne a farre off, runne on him, and kiſſed him, <hi>Luk. 15</hi> Of the third, we reade of the mercy of the Samaritan, which he ſhewed vnto him that fell among the théeues. Then haue mercie on <hi>Lazarus</hi> which is in di<g ref="char:EOLhyphen"/>ſtreſſe; let vs not like the Leuite paſſe by <hi>Laza<g ref="char:EOLhyphen"/>rus</hi> that lieth wounded, and more then halfe dead; haue mercy, I ſay, on <hi>Lazarus</hi> which is a member of Chriſt; haue mercy on <hi>Lazarus,</hi> and God ſhall haue mercy on thée. <hi>Bleſſed are the mercifull, for they ſhall obtaine mercy.</hi> And ſo let vs conſider the fourth part in the life of the Begger: who ſhewed this Begger mercy? not the Rich man, but his dogs.</p>
+               <p>
+                  <hi>The dogs came and licked his ſores.</hi> The Rich mans dogs by licking <hi>Lazarus,</hi> taught their Maſter to haue mercie on him, but hée would not; therefore he had worſe then a doggiſh na<g ref="char:EOLhyphen"/>ture and cruell heart. But here firſt we note Gods prouidence towards his children, he will haue them comforted and fed, though by dumb and onely ſenſible creatures; ſo the dogs here came and licked <hi>Lazarus</hi> ſores. So <hi>Elias</hi> was fed by Rauens to ſaue his life, <hi>1. King. chap. 17. verſe 4. And thou ſhal drinke of the riuer: and</hi>
+                  <pb facs="tcp:180962:15"/> 
+                  <hi>I haue commanded the Rauens to feede thee there.</hi>
+               </p>
+               <p>This, I ſay, is done by Gods prouidence: therefore what tender care and carefull reſpect God hath ouer his children, here we ſée.</p>
+               <p>The mercy of God is threefold, <hi>Prima ſpecio<g ref="char:EOLhyphen"/>ſa, ſecunda ſpacioſa, tertia p<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tioſa:</hi> the firſt is beautifull to behold, the ſecond is ſpacious, the third is precious to the ſould. By the firſt, <hi>Laza<g ref="char:EOLhyphen"/>rus</hi> and vs all are created: by the ſecond, <hi>Laza<g ref="char:EOLhyphen"/>rus</hi> and all vs his beléeuing children are redée<g ref="char:EOLhyphen"/>med: by the third, <hi>Lazarus</hi> and all of vs are car<g ref="char:EOLhyphen"/>ried into <hi>Abrahams</hi> boſome in the kingdome of heauen.</p>
+               <p>Secondly, in that <hi>dogs came and licked La<g ref="char:EOLhyphen"/>zarus ſores.</hi> when the Rich man himſelfe for<g ref="char:EOLhyphen"/>ſooke him, we obſerue, that ſenſible dumbe crea<g ref="char:EOLhyphen"/>tures of the earth are (in their kindes) better then many men. Therefore it is that God com<g ref="char:EOLhyphen"/>plaineth by the mouth of his Prophet, <hi>The oxe knoweth his owner, and the Aſſe his maſters crib, but my people will not know me, ſaid the Lord.</hi> So the dogs here knew <hi>Lazarus</hi> to be pained, but the Rich man would not vouchſafe to know him: therefore his owne dogs con<g ref="char:EOLhyphen"/>demned him of mercileue crueltie.</p>
+               <p>It is worth the noting y<hi rend="sup">e</hi> which <hi>Plinie</hi> reports of dogs, <hi>Fideliſſimi homini ante omnia ſunt canes</hi>
+                  <pb facs="tcp:180962:16"/> 
+                  <hi>&amp; equos:</hi> Dogs and Horſes are moſt loyall and louing vnto men, aboue all other creatures. A<g ref="char:EOLhyphen"/>gaine, <hi>Quod impetus eorum &amp; ſeuitia mittigatur ab homine concidentur humi:</hi> That their ſauage<g ref="char:EOLhyphen"/>neſſe and crueltie is mitigated when one doth fall on the ground: but <hi>Lazarus</hi> humbled him<g ref="char:EOLhyphen"/>ſelfe on the ground, and lay in the duſt, yet this Rich man had no pitty on him, he relieued him not. <hi>Soli nomina ſua canes:</hi> Dogges onely of all other ſenſible creatures know their names. I would all Chriſtians would remember their names, and what belongeth thereto: how when they were incorporated into the Church, they vowed to forſake the Diuill, the world, and the fleſh. Againe, <hi>Soli vocem domeſticam agnoſcunt canes:</hi> Dogs know the voices of them that are in the houſe; if one come at midnight and cha<g ref="char:EOLhyphen"/>ſtiſe them, they will ceaſe to barke, they will know the houſholders voice, and they of the houſhold. I would men would learne to know Chriſt their houſholder, and the voices of the Prophets and Preachers of his houſhold. A<g ref="char:EOLhyphen"/>gaine, <hi>Scrutantur veſtigia canes:</hi> They ſearch the foot-paths of their Maſters. We will not fol<g ref="char:EOLhyphen"/>low the paths of righteouſneſſe, nor tread in the footſteps of our maiſter Chriſt, although he hath ſaid, <hi>Learne of me;</hi> and although the Apo<g ref="char:EOLhyphen"/>ſtle doth earneſtly exhort vs, <hi>Be ye followers of</hi>
+                  <pb facs="tcp:180962:16"/> 
+                  <hi>God, as deare children. Perſequitur inimicum ca<g ref="char:EOLhyphen"/>nis:</hi> A dog chaſeth his enemy; but our enemy the Diuell chaſeth vs. Sée that medicinable vertue that is in a dogs tongue, for it healeth, and was comfortable to <hi>Lazarus.</hi> Mans tongue cutteth and killeth. <hi>Thy tongue,</hi> ſaith <hi>Dauid, cutteth like a ſharpe razor:</hi> and <hi>the tongue that telleth lies, ſlayeth the ſoule.</hi> But now let vs conſider the third part, which is the death of the Begger.</p>
+               <p>
+                  <hi>It was ſo that the Begger dyed.</hi> Here is the adage fulfilled. <hi>Mors optima rapit, deterima reli<g ref="char:EOLhyphen"/>quit.</hi> Now muſt I ſpeake of tragicall matters, of Funerals and Obſequies, of diſſolution and death, which is called by many metaphors in the holy Scriptures, as ſometimes, <hi>Tranſtius ex hoc munde ad Patrem,</hi> A paſſage or going out of this world to the Father. Sometimes <hi>Diſſo<g ref="char:EOLhyphen"/>lutio:</hi> ſo <hi>Paul</hi> cals it, <hi>Cupio diſſolui, &amp; eſſe cum Chriſto: I deſire to be looſed, and to be with Chriſt.</hi> Sometimes <hi>Lucrum,</hi> Gaine, as in the Philippians, <hi>Death is to me aduantage.</hi> Some<g ref="char:EOLhyphen"/>time <hi>Somnus,</hi> a ſléepe; ſo <hi>Abraham</hi> and <hi>Dauid</hi> ſlept with their Fathers. Sometimes <hi>Semi<g ref="char:EOLhyphen"/>nario,</hi> a ſowing: <hi>It is ſowne a naturall bodie, it riſeth againe a ſpirituall bodie:</hi> and it is thus de<g ref="char:EOLhyphen"/>fined, <hi>Mors eſt ſeparatio animæ à corpore, requies à laboribus, &amp; miſereri huius ſeculi:</hi> Death is a
+<pb facs="tcp:180962:17"/> ſeperation of the ſoule from the body, a reſt and quietneſſe from all labours, paines and miſeries of this wicked world. But there are thrée kindes of Death, to wit, Corporall, Spirituall and E<g ref="char:EOLhyphen"/>ternall.</p>
+               <p>The Corporall death is a naturall ſeparation of the ſoule from the body, &amp;c.</p>
+               <p>The Spirituall death is two-fold: there is <hi>Mors ſpirituales piorum &amp; impiorum,</hi> There is a ſpirituall Death of the godly and of the wicked: the ſpirituall Death of the godly, <hi>Mors peccati &amp; mundi dicitur,</hi> It is to die onely vnto ſinne and to the world: the ſpirituall death of the vngodly, <hi>Eſt mors fide<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp; anim<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Is the death of faith and righteouſneſſe of the ſoule, which death the vngodly taſte of, although they be yet liuing.</p>
+               <p>The Eternall Death is, <hi>Sempiterna infœli<g ref="char:EOLhyphen"/>citas &amp; miſeria, quæ ſecundum mora <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>:</hi> An e<g ref="char:EOLhyphen"/>uerlaſting vnhappineſſe and miſery, when the ſould is ſeparated from God and the company of all Saints, which is called the ſecond death.</p>
+               <p>
+                  <hi>Moritur ergo homo Temporaliter, moritur Spi<g ref="char:EOLhyphen"/>ritualiter &amp; vtiliter, moritur ſpiritualiter &amp; dans<g ref="char:EOLhyphen"/>nabiliter.</hi>
+               </p>
+               <p>Man may therefore taſte of thrée Deaths:
+<pb facs="tcp:180962:17"/> Firſt, Corporall: Secondly, Spirituall and profitable: Thirdly, Spirituall and damna<g ref="char:EOLhyphen"/>ble.</p>
+               <p>
+                  <hi>Primam Chriſtus ſuſcepit: Secundam docuit: Ter<g ref="char:EOLhyphen"/>tiam, damnauit.</hi>
+               </p>
+               <p>The firſt, is a temporall Death, that Chriſt himſelfe did ſuffer;</p>
+               <p>
+                  <hi>Non quia noluit, ſed quia voluit, mortuus eſt Chriſtus:</hi>
+               </p>
+               <p>Not becauſe he wanted power to withſtand Death, but becauſe he would die willingly, and offer a ſacrifice for the whole world that do beléeue in him.</p>
+               <p>The ſecond, that is, the Spirituall profitable Death, to die vnto ſinne and the world, he taught by his owne example, <hi>Ye are dead with Chriſt, &amp;c.</hi>
+               </p>
+               <p>The third, that is the Spirituall euerla<g ref="char:EOLhyphen"/>ſting Death, he ſhall giue vnto the reprobate in the day of iudgement: <hi>Goe yee curſed into hell fire, prepared for the Diuell and his An<g ref="char:EOLhyphen"/>gels.</hi>
+               </p>
+               <p>But in the death of the Begger, firſt we no<g ref="char:EOLhyphen"/>ted what became of his ſoule, <hi>It was carried by Angels into Abrahams boſome.</hi> Whereby we learne, the immortalitie of the ſoule. <hi>Pithago<g ref="char:EOLhyphen"/>ras</hi> was the firſt among the Grecians, that held
+<pb facs="tcp:180962:18"/> the ſoule was immortall. The Philoſophers al<g ref="char:EOLhyphen"/>ſo, and Heathen Poets do proue the immorta<g ref="char:EOLhyphen"/>lity of the ſoule.</p>
+               <lg>
+                  <l>
+                     <hi>Cedit enim retro, de terra quod fuit ante</hi>
+                  </l>
+                  <l>
+                     <hi>In terra; ſed quod miſſum &amp; ex ætheris oris,</hi>
+                  </l>
+                  <l>
+                     <hi>Id rurſum cæli fulgentia templa, recep<g ref="char:EOLhyphen"/>tunt.</hi>
+                  </l>
+               </lg>
+               <p>That part of man that was made of earth, went to earth; and that part as came from hea<g ref="char:EOLhyphen"/>uen, went to heauen againe. But leauing theſe, we proue by Scripture the immortality of the ſoule: <hi>Man was made a liuing ſoule.</hi> Therefore the ſoule is immortall. And here in the Text, <hi>Lazarus</hi> being dead, his ſoule was <hi>carried into Abrahams boſome.</hi>
+               </p>
+               <p>Here therefore is the damnable opinion of the Atheiſts ouerthrowne: for if they deny God, they muſt alſo deny that they haue ſoules; and ſo conſequently that they are not men. But Saint <hi>Iohn</hi> teacheth them, that all things were made by the Word of God, and without it nothing was made: therefore if they are made, they are made by the Word of God, and of a reaſonable ſoule, which doth acknow<g ref="char:EOLhyphen"/>ledge and beléeue in his Creator. <hi>Anima eſt</hi>
+                  <pb facs="tcp:180962:18"/> 
+                  <hi>primum principium vitæ, per ſe ſubſiſtens, incorpo<g ref="char:EOLhyphen"/>rea, ac incorruptibile:</hi> The ſoule is the firſt be<g ref="char:EOLhyphen"/>ginning of life, ſubſiſting of it ſelfe, incorpo<g ref="char:EOLhyphen"/>reall, and incorruptible. Saint <hi>Auſtin, Ani<g ref="char:EOLhyphen"/>ma eſt ſpiritus &amp; ſubſtantia incorporea, corporis ſu vita ſenſihilis, inuiſibilis, rationales, immortales:</hi> The ſoule of man is a ſpirituall or incoporeall ſubſtance, ſenſible, inuiſible, reaſonable, im<g ref="char:EOLhyphen"/>mortall: for as he alſo ſaith, <hi>Solus homo ha<g ref="char:EOLhyphen"/>bet animale rationalem:</hi> Onely man hath an immortall ſoule. <hi>Lazarus</hi> ſoule was carried into <hi>Abrahams</hi> boſome, which is a quiet Ha<g ref="char:EOLhyphen"/>uen, which the faithfull haue gotten by the troubleſome Nauigation of this life, that is the Kingdome of heauen. There is <hi>Duplex Regnum, Gratiæ &amp; Gloriæ,</hi> There is two king<g ref="char:EOLhyphen"/>domes, one of Grace, the other of Glo<g ref="char:EOLhyphen"/>rie.</p>
+               <p>Here therefore we note, that the ſoules of the Elect, being ſeparated from their bodies, are preſently in ioyes, and are carried into <hi>A<g ref="char:EOLhyphen"/>brahams boſome;</hi> ſo called, becauſe it belong<g ref="char:EOLhyphen"/>eth onely to the faithfull. Well then, <hi>Lazarus</hi> ſoule went to heauen; and Chriſt ſaid to the Théeſe on the Croſſe, <hi>This day ſhalt thou be with me in Paradiſe.</hi> Not to morrow, or next yeare, but this day. Therefore the ſoules of the Elect being ſeparated from their bodies, are
+<pb facs="tcp:180962:19"/> in ioy and reſt. As alſo on the other ſide, the ſoule of the Rich man and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he damned, after they be ſeparated from their bodies, are in hell torments.</p>
+               <p>And thus much concerning the place whither <hi>Lazarus</hi> ſoule was carried bring dead, namely into <hi>Abrahams</hi> boſome.</p>
+               <p>Laſtly, we noted by whom, by Angels: <hi>It was carried by Angels into Abrahams boſome.</hi> An Angell doth ſignifie a Meſſenger, according to the Etimologio of the world; and this name is proper to them in reſpect of their offices: but they are defined otherwiſe, namely to be mini<g ref="char:EOLhyphen"/>ſtring ſpirits, created to the glorie of God, and benefit of his Church; and there are nine orders of Angels, as the Diuines do write, and as we gather out of Scripture.</p>
+               <p n="1">1 The firſt, are they that we call Sera<g ref="char:EOLhyphen"/>phins, <hi>Qui ſemper Dei amore ard<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unt,</hi> who al<g ref="char:EOLhyphen"/>wayes burne with the loue of God; they gliſter and ſhine in brightneſſe, and their office is, <hi>Bo<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tatem Dei conſiderare,</hi> to meditate on the good<g ref="char:EOLhyphen"/>nes of God.</p>
+               <p n="2">2 The ſecond, are Cherubius, <hi>Qui principa<g ref="char:EOLhyphen"/>liter <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> radio,</hi> who princi<g ref="char:EOLhyphen"/>pally do giue a reflex of the brightneſſe of God; and they do <hi>virtutes Dei conſiderare,</hi> conſider the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and qualitie of God.</p>
+               <pb facs="tcp:180962:19"/>
+               <p n="3">3 The third order are <hi>Throni,</hi> a regall ſeat, and their office is <hi>Aſſiſ<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Dei Throno,</hi> to ſtand about the Throne of God.</p>
+               <p n="4">4 The fourth are <hi>Dominationes,</hi> Domini<g ref="char:EOLhyphen"/>ons, and they doe <hi>inſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uere in ſpirituali bello,</hi> in<g ref="char:EOLhyphen"/>ſtruct and direct men in the ſpirituall com<g ref="char:EOLhyphen"/>bat that is betwixt the fleſh and the ſpi<g ref="char:EOLhyphen"/>rit.</p>
+               <p n="5">5 The fift are <hi>Principatus,</hi> Principalities; and they doe <hi>Principes regere &amp; homines docere,</hi> guide Princes, and teach euery one to reuerence men in their place and calling.</p>
+               <p n="6">6 The ſixt, are <hi>Poteſtates,</hi> Powers; and they doe <hi>Poteſtatem dæmonum cœrcere,</hi> reſtraine the power of di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>els.</p>
+               <p n="7">7 The ſeuenth, are <hi>Virtutes,</hi> Vertues, and they do <hi>Miracula operare,</hi> worke miracles.</p>
+               <p n="8">8 The eight, are Archangels, <hi>Qui ſumma nunciant</hi> who declare wonderfull things.</p>
+               <p n="8">8 The laſt order are Angels, <hi>Sed hominibus magis propinqui more</hi> neare to men in office, and they doe <hi>Homines à Diuinam cognitionem duo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re,</hi> teach men the knowledge of heauenly things. <hi>Behold, I will ſend mine Angell which ſhall go before thee, and keep thee in the way, Exod. 25. He wil giue his Angel charg ouer thee, that thou daſh not thy foote againſt a ſtone, Pſal. 90.</hi> An<g ref="char:EOLhyphen"/>gels doe inſtruct the ignorant. So the Angell
+<pb facs="tcp:180962:20"/> did teach <hi>Ioſeph</hi> to flie into Egypt from <hi>Herods</hi> cruelty. Angels doe attend the ſoules of the faithfull, being ſeperated from their bodies, and carry them into euerlaſting ioyes and reſt, as is manifeſt in this place.</p>
+               <p>Wee ſée therefore the tender care and loue of God, which hath thrée properties, ſweetneſſe, wiſedome and ſtrength. He loued vs ſweetly, in that he tooke on him our fleſh: he loued vs by his wiſedome, in that he preuented the blame that ſhould light on vs: he loued vs by his ſtrength, when as he indured the bitter pangs of death for our ſakes. Therefore he ſhall be called <hi>Ami<g ref="char:EOLhyphen"/>cus dulcis, conjolarius prudens, adiutor fortis:</hi> A ſwéet friend, a wiſe Counſellour, and a ſtrong helper. And ſo let vs conſider the fourth and laſt part, which is the death of the Rich man.</p>
+               <p>
+                  <hi>The Rich man alſo dyed, &amp;c.</hi> Here we may ſée, that Death is the way of all fleſh. Death ſhaketh Cydar and ſhrub. Death calleth away the Rich man from his pleaſures, and <hi>Lazarus</hi> from his paines; and all muſt obey when Death calleth. It is not the maieſty of Prince, nor ho<g ref="char:EOLhyphen"/>lineſſe of Prieſt, ſtrength of body, feature of face, wiſedome, beauty, riches, honour, nor any ſuch ſecular regard can pleade againſt Death, or priuiledge a man from the graue. <hi>Statutum</hi>
+                  <pb facs="tcp:180962:20"/> 
+                  <hi>eſt, omnibus ſemel mori:</hi> The decrée is out, all muſt die once; all muſt taſte of this diſtaſtfull cup of death. Let vs then know that the pale horſe, and he that ſitteth there on, whoſe name is Death, comes running on towards vs. All that is within vs, and without vs are remem<g ref="char:EOLhyphen"/>brances of Death. The Sun riſing in the Eaſt, and ſhining into the Weſt, ſheweth our riſing and falling, our comming in and going out of this world. All cry vnto vs, we muſt away, we muſt hence, as Chriſt ſaid, <hi>My kingdome is not of this world.</hi> Death is a ſeparation of the ſoule from the body; the huſband ſeparated from the wife of his youth; the father ſeperated from his children whom he dearely loued, the children from their parents; the maſter from his ſeruant, and the ſeruant from his maſter: thus parents and friends, and all muſt part.</p>
+               <p>The firſt circumſtance of the Rich man, is to know what became of his body? It was honou<g ref="char:EOLhyphen"/>rably buried. But here we ſée, that honourable buriall doth not profit the damned ſoule. Lates are ſowne as well as Wheate all times; the one growes vp for the fire, the other for the barne. <hi>Gather the tares in bundles, and burne them, but gather the wheate into my barne, Math. 13. 30.</hi> But let vs laſtly conſider what became of his ſoule?</p>
+               <pb facs="tcp:180962:21"/>
+               <p>
+                  <hi>And being in hell torments, &amp;c.</hi> But be<g ref="char:EOLhyphen"/>cauſe none can ſo wel relate miſeries, and none can deſcribe the torments of hell ſo well as he that hath felt the ſame, let the Rich man him<g ref="char:EOLhyphen"/>ſelfe ſpeake, and let vs heare him what he ſaith; <hi>He being in hell torments,</hi> he thus beginneth, <hi>O wretch that I am, why did I ſuffer <hi>Lazarus</hi> to ſtarue at my gate? for which I am ſhut in the gates of hell: why did I not giue <hi>Lazarus</hi> a crum of bread? for which I cannot haue here now one drop of water to coole my tongue. Why did I ſhew <hi>Lazarus</hi> no mercy on earth? for which no mercie is ſhewed to me in hell. What ſhall I do? for I am tormented in this flame. I will cry vnto <hi>Abraham, Abraham haue mercie on me, and ſend Lazarus that he may dip the tip of his finger in wa<g ref="char:EOLhyphen"/>ter, and coole my tongue;</hi> I am tormented here <hi>A<g ref="char:EOLhyphen"/>braham,</hi> I am torne in pieces here <hi>Abraham,</hi> I am plagued and continually pained here <hi>Abraham;</hi> here my purple raiment is flames of fire, my light is darkneſſe, my day is night, my companions are diuels; O how they hale me, O how they pull me, O how they vex and torment me! Here my feet are ſcorched, my hands are feared, my heart is wounded, my eyes are blinded, my eares are delled, my ſenſes confounded, my tongue is hot, it is very hot, ſend <hi>Lazarus</hi> therefore <hi>Abraham</hi> with a drop of water to comfort me; one drop
+<pb facs="tcp:180962:21"/> good <hi>Abraham,</hi> one drop of water.</hi>
+               </p>
+               <p>But <hi>Abraham</hi> anſwered him, <hi>Thou damned wretch, once thou didſt diſdaine <hi>Lazarus,</hi> once thou didſt refuſe <hi>Lazarus,</hi> once thou didſt ſcorn <hi>Lazarus,</hi> now <hi>Lazarus</hi> ſhall diſdaine, refuſe and ſcorne thee; once thou ſtopſt thine eares from the crie of <hi>Lazarus,</hi> now he ſtoppeth his eare s from thy crie; once thou turnedſt away thy face from <hi>Lazarus,</hi> now he turneth away his face from thee; once thou deniedſt crums to <hi>Laza<g ref="char:EOLhyphen"/>rus,</hi> now he denieth water to thee: not a ſpoon<g ref="char:EOLhyphen"/>full, not a drop of water.</hi>
+               </p>
+               <p>
+                  <hi>Oh <hi>Abraham,</hi> but now if I had my goods, I would giue <hi>Lazarus</hi> all for a drop of water, now if I had a million of gold, I would giue it all for a drop of water; now if I had a world of wealth, I would giue it all to <hi>Lazarus:</hi> therefore good <hi>Abraham</hi> on drop.</hi> But he anſwered, <hi>No, not a drop.</hi>
+               </p>
+               <p>
+                  <hi>Not a drop? then curſed be the day wherein I was borne, and curſed be the night wherein I was conceiued; curſed be my father that begot me, &amp; curſed be my mother that bare me; curſed be the Palace that kept me, curſed be the purple robes that cloathed me, curſed be the delicate meate that fed me, let me be moſt accurſed of all creatures both in heauen and earth.</hi> And ſo leaue we him curſing, who indéede was moſt
+<pb facs="tcp:180962:22"/> accurſed: and learne, that the ſoules of the dam<g ref="char:EOLhyphen"/>ned being ſeparated from their bodies, are in hell torments.</p>
+               <p>Hell is deſcribod by many metaphors: as, horrible darkneſſe; a land as black as dark<g ref="char:EOLhyphen"/>neſſe it ſelfe; alſo, vnquenchable fire: <hi>Ibi erit fletus, &amp; ſtridor dentium, fletus quidem ob ignem qui non extinguitur, ſtridor dentium ob vermen qui nunquam moritur:</hi> There ſhall be wéeping and gnaſhing of téeth. weeping for the fire that ne<g ref="char:EOLhyphen"/>uer ſhall be quenched, gnaſhing of téeth for the worme that neuer dieth. Alſo it is called <hi>Infernus,</hi> a dungeon, a bottomleſſe pit. <hi>Infer<g ref="char:EOLhyphen"/>nus lacus eſt ſine menſura, profundus eſt ſine fun<g ref="char:EOLhyphen"/>do, plenus ardore incomparabile, plenus dolore in<g ref="char:EOLhyphen"/>tollerablis:</hi> Hell is a Lake that cannot be meaſured, ſo déepe that it is without bot<g ref="char:EOLhyphen"/>tome, full of intollerable heate, full of in comparable paine. Alſo <hi>Gehennam,</hi> a velley nigh vnto Ieruſalem, wherein was a Chappel, in the which the idolatrous Iewes did ſacrifice their children vnto a brazen Image called <hi>Mo<g ref="char:EOLhyphen"/>lech,</hi> which being made hot, incloſed them in the belly thereof; and leſt their cry ſhould moue any to pitty them, they made a horible noiſe with drums and other inſtruments: whereupon the place is called <hi>Tophet.</hi> Thus will the Lord ſpeake with his enemies in his wrath, and vexe
+<pb facs="tcp:180962:22"/> them in his ſore diſpleaſure.</p>
+               <p>But ſome may demand, where this place of Hell is? If I ſhould take vpon me to declare that, it would appeare vnto me, <hi>Annibalem Phor<g ref="char:EOLhyphen"/>nio,</hi> as the adage is, and I were mad, out of my element. I had rather with ſafety hereby teach, that there is a Hell to puniſh the mercileſſe Rich man, and the damned: he being in hell torments; therefore there is a hell and torments both.</p>
+               <p>Therefore to conclude all in one word, and to apply all that hath béene ſpoken to this pre<g ref="char:EOLhyphen"/>ſent time and place, let vs all in our vocations learne to haue mercy on <hi>Lazarus,</hi> that is, on our poore brethren, that we may find mercy, and that mercy may reioyce in iudgement. And you that are Magiſtrates of this Citie, thinke vpon <hi>Lazarus</hi> that lieth in your ſtréets, that pineth at your gates, that ſtarueth in your Priſons for want of crums; hearken how they cry, Bread, bread, a loafe of bread for Ieſus ſake. Who would not heare them? Who would not pitty them? who would not comfort them? Alſo ſée that you chuſe good and mercifull Officers in your Spittles and Hoſpitals, that may féed <hi>La<g ref="char:EOLhyphen"/>zarus,</hi> and not fill their owne purſes and bel<g ref="char:EOLhyphen"/>lies as this Rich man did. And you that ſit in the ſeate of Iudgement, and are gods here on
+<pb facs="tcp:180962:23"/> earth, let the matter be iudged rightly betwéene the Rich man and poore <hi>Lazarus;</hi> let Equitie be in your right hand, and Iuſtice in your left; con<g ref="char:EOLhyphen"/>ſider that <hi>Lazarus</hi> is poore, and that he is not able to wage Law againſt the Rich man, yet defend him and let him haue right. Defend the fatherleſſe and the widdow. See that ſuch as be in néed and neceſſitie haue their right, then ſhall the righteous God of heauen bleſſe you, and bleſſe the Land for your ſake: then ſhall we be with <hi>Lazarus</hi> in the bleſſed place of reſt, which the onely Lord Ieſus grant vs, for his mercies ſake, <hi>Amem,</hi> Lord Ieſus, <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:180962:23"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
